@@ -1,0 +1,10 @@
+body {
+  background-color: beige;
+}
+
+i {
+  cursor: pointer;
+}
+i:hover {
+  filter: brightness(80%);
+}
